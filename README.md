@@ -10,4 +10,4 @@ This app uses api from openweathermap.org
 * Create .env file
 * Add your api key from openweathermap.org in .env as follows:
           API_KEY=<api_key>
-*  Run `npm start`
+*  Run `npm start` to start the local server
