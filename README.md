@@ -8,6 +8,6 @@ This app uses api from openweathermap.org
 * Clone the project
 * Run `npm install`
 * Create .env file
-* Add you api key from openweathermap.org as follows:
+* Add your api key from openweathermap.org in .env as follows:
           API_KEY=<api_key>
 *  Run `npm start`
